@@ -1,4 +1,4 @@
-<img alt="lofiart" src="./header.svg" width="100%" />
+<img alt="lofiart" src="./header.svg" width="100%" height="40%" />
 
 <div width="100%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=rahulcs754&theme=algolia&background=2300FF)](https://git.io/streak-stats)" width="48.75%"/>
