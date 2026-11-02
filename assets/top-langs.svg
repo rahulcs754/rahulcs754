@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="220" viewBox="0 0 420 220" role="img" aria-label="Top Languages">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<rect x="0.5" y="0.5" width="419" height="219" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="36" font-size="17" font-weight="600" fill="#a78bfa">Top Languages</text>
+<clipPath id="c"><rect x="24" y="54" width="372" height="10" rx="5"/></clipPath><g clip-path="url(#c)"><rect x="24.00" y="54" width="252.28" height="10" fill="#4F5D95"/><rect x="276.28" y="54" width="44.24" height="10" fill="#f1e05a"/><rect x="320.52" y="54" width="31.75" height="10" fill="#DA5B0B"/><rect x="352.27" y="54" width="21.16" height="10" fill="#3572A5"/><rect x="373.43" y="54" width="15.26" height="10" fill="#e34c26"/><rect x="388.70" y="54" width="7.30" height="10" fill="#663399"/></g>
+<circle cx="30" cy="91" r="6" fill="#4F5D95"/><text x="44" y="96" font-size="14" fill="#c9d1d9">PHP <tspan fill="#8b949e">67.8%</tspan></text>
+<circle cx="220" cy="91" r="6" fill="#f1e05a"/><text x="234" y="96" font-size="14" fill="#c9d1d9">JavaScript <tspan fill="#8b949e">11.9%</tspan></text>
+<circle cx="30" cy="121" r="6" fill="#DA5B0B"/><text x="44" y="126" font-size="14" fill="#c9d1d9">Jupyter Notebook <tspan fill="#8b949e">8.5%</tspan></text>
+<circle cx="220" cy="121" r="6" fill="#3572A5"/><text x="234" y="126" font-size="14" fill="#c9d1d9">Python <tspan fill="#8b949e">5.7%</tspan></text>
+<circle cx="30" cy="151" r="6" fill="#e34c26"/><text x="44" y="156" font-size="14" fill="#c9d1d9">HTML <tspan fill="#8b949e">4.1%</tspan></text>
+<circle cx="220" cy="151" r="6" fill="#663399"/><text x="234" y="156" font-size="14" fill="#c9d1d9">CSS <tspan fill="#8b949e">2.0%</tspan></text>
+</svg>
